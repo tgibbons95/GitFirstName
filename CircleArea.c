@@ -31,5 +31,6 @@ int main(void)
 	area=PI*r*r;
 	printf("\nThe area is: %.2f\n",area);
 	printf("\nThe circumference is: %.2f\n",2*PI*r);
+	printf("\nTEST: The circumference is: %.2f\n",2*PI*r);
 	return 0;
 }
